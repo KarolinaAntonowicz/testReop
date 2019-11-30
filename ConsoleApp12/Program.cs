@@ -26,7 +26,8 @@ namespace Appka_z_pierwszych_zajec
                     break;
                 int b = Convert.ToInt32(Console.ReadLine());
                 int a = Convert.ToInt32(Console.ReadLine());
-                if (menuOption == 1)
+                if (menuOption == 2)
+
                 {
                     Console.WriteLine(a + b);
                 }
